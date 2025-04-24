@@ -59,7 +59,7 @@ node main.js
 In a **new terminal**, navigate to the main directory:
 
 ```bash
-cd abx-client-app
+cd AbxClientApp
 dotnet run --project AbxClientApp.csproj
 ```
 
