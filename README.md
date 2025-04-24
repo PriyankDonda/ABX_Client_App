@@ -67,7 +67,7 @@ If everything works correctly, you will see:
 
 ```
 [INFO] ABX Client completed successfully.
-[INFO] Output written to: /path/to/abx-client-app/output/output.json
+[INFO] Output written to: /path/to/AbxClientApp/bin/output/output.json
 ```
 
 ---
